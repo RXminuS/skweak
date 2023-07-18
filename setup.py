@@ -13,7 +13,7 @@ setuptools.setup(
      license='LICENSE.txt',
      packages=['skweak'],
      python_requires=">=3.6",
-     install_requires=["spacy>=3.0","hmmlearn>=0.2", "pandas>=0.23", "numpy>=1.18"],
+     install_requires=["spacy>=3.0", "pandas>=0.23", "numpy>=1.18"],
      long_description=long_description,
      long_description_content_type="text/markdown",
      url="https://github.com/NorskRegnesentral/skweak",
